@@ -1,0 +1,9 @@
+# train and val data
+train: I:/ra1/dataset2/train/
+val: I:/ra1/dataset2/val/
+
+# number of classes
+nc: 3
+
+# class names
+names: ['bad','good','none']
